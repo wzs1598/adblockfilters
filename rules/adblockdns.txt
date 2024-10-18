@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241018001109
-! Last modified: 2024/10/18 00:11:09
-! Blocked domains: 173763
+! Version: 20241018084046
+! Last modified: 2024/10/18 08:40:46
+! Blocked domains: 173788
 ! unBlocked domains: 51
 !
 ||lunchingclotheshubs.000.pe^
@@ -3301,6 +3301,7 @@
 ||6ped2nd3yp.com^
 ||amethyst.6pm.com^
 ||6qu5dcmyumtw.com^
+||6qyxeob.xyz^
 ||6r9ahe6qb.com^
 ||6rn05mmbct.ru^
 ||pole.6rooms.com^
@@ -3549,6 +3550,7 @@
 ||7abf0af03c.com^
 ||7adpower.com^
 ||7airtrendy.xyz^
+||7amz.com^
 ||7anfpatlo8lwmb.com^
 ||7app.top^
 ||7art-screensavers.com^
@@ -11209,6 +11211,7 @@
 ||alpidoveon.com^
 ||1t2.alpin.de^
 ||code.alpin.de^
+||w.alpin.de^
 ||alpine-vpn.com^
 ||alpineactor.com^
 ||alpinedrct.com^
@@ -26694,6 +26697,7 @@
 ||csvtr07.bmoinvestorline.com^
 ||csvtr09.bmonesbittburns.com^
 ||bmorehacker.com^
+||bmougwx.icu^
 ||bmqulua.icu^
 ||smetrics.bms-io-academy.co.uk^
 ||smetrics.bms-newfrontiers.com.au^
@@ -48552,6 +48556,7 @@
 ||endoftheworldranch.com^
 ||marketing.endologix.com^
 ||endoloris.com^
+||endorico.com^
 ||endorsecontinuefabric.com^
 ||endorsementgrasshopper.com^
 ||endorsementpsychicwry.com^
@@ -56315,7 +56320,6 @@
 ||smetrics.freedomfordsales.ca^
 ||freedomforpoles.com^
 ||freedomfromnostalgia.com^
-||freedomgift50.com^
 ||freedominfo.net^
 ||freedommedianetwork.com^
 ||strack.freedommobile.ca^
@@ -56862,6 +56866,7 @@
 ||column.fsd-news.org^
 ||probe.fsd-news.org^
 ||tweet.fsd-news.org^
+||fsdhbfi2h4932hriegnd111fdsnfl1l.co.za^
 ||fsendlogistics.com^
 ||fsfwetubfgd.com^
 ||fsijngnfsfk.com^
@@ -58741,6 +58746,7 @@
 ||generatoroff.ru^
 ||generatorpad.com^
 ||partner.generatorvodiku.cz^
+||genericliards.click^
 ||genericlink.com^
 ||genericviagraonlineusa.com^
 ||generinbgprof.info^
@@ -68831,6 +68837,7 @@
 ||allegrolokalnie.id871-vyi9-9183.shop^
 ||aiebilet.id885.com^
 ||alebiiet.id885.com^
+||pay.avito.id90152861.com^
 ||email-mandrill.id90travel.com^
 ||allegrolokalnie.id982410.shop^
 ||allegro.id98310038-392081b.shop^
@@ -76675,6 +76682,7 @@
 ||link.jmbl.app^
 ||rtegbv.jmclaughlin.com^
 ||jmdinfotechs.com^
+||jmipzsn.icu^
 ||stats.jmmr.dev^
 ||jmnmb.com^
 ||protection.jmpolice.com^
@@ -77763,6 +77771,7 @@
 ||jxgd1688.com^
 ||jxjpnd.xyz^
 ||jxkayopaij.com^
+||jxldpjxcp.com^
 ||jxlxeeo.com^
 ||ad.jxnews.com.cn^
 ||jxpjlb.xyz^
@@ -78651,6 +78660,7 @@
 ||go-test.karos.fr^
 ||api.karpishe.com^
 ||data-421b67c653.karriereregion.de^
+||event.karrotmarket.com^
 ||cfrnyp.kars4kids.org^
 ||kartavisa.pl^
 ||b.karte.io^
@@ -79482,6 +79492,7 @@
 ||shop.kicker.de^
 ||ue.kicker.de^
 ||ues.kicker.de^
+||w.kicker.de^
 ||kickerdobrasil.com.br^
 ||twin-iq.kickfire.com^
 ||kickmovies.com^
@@ -80868,6 +80879,7 @@
 ||tr.news.kpmgnet.fr^
 ||images.info.kpmgrealinsights.com^
 ||image.email.kpmgus.com^
+||kpmsoq.xyz^
 ||omsc.kpn.com^
 ||kpopkdrama.com^
 ||www.kpr2exp21.com^
@@ -80996,6 +81008,7 @@
 ||video.krkpr.click^
 ||engage.krm22.com^
 ||affiliate.krmivopropsy.cz^
+||events-api.towneers.prod.data.krmt.io^
 ||info.kroff.com^
 ||sstats.kroger.com^
 ||stats.kroger.com^
@@ -87474,6 +87487,7 @@
 ||magicwindow.cn^
 ||magiczenith.com^
 ||btdmarket.magik-jack.com^
+||magioe.xyz^
 ||magisk.download^
 ||magisk.info^
 ||magisk.me^
@@ -89268,6 +89282,7 @@
 ||mauchopt.net^
 ||maudau.com^
 ||maugoops.xyz^
+||maugrewuthigeb.net^
 ||mauhara.com^
 ||mauireporter.com^
 ||pj.mauleydesires.com^
@@ -95765,6 +95780,7 @@
 ||app.muny.org^
 ||muoizbtl.xyz^
 ||mupads.de^
+||mupattbpoj.com^
 ||cv.mupla-ab3.com^
 ||mupufktvziob.com^
 ||mupyfpimgnvqdgy.com^
@@ -98106,6 +98122,7 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi40.com^
+||navi42.ru^
 ||navi45.ru^
 ||navi5.com^
 ||navi50.com^
@@ -105633,6 +105650,7 @@
 ||app.osubeavers.com^
 ||t.osubeavers.com^
 ||info.osufoundation.org^
+||osujcq.xyz^
 ||images.response.osv.com^
 ||reply.osv.com^
 ||iwzspv.oswaldsupply.com^
@@ -106358,6 +106376,7 @@
 ||p-digital-server.com^
 ||p-fd03.cfd^
 ||p-mel.net^
+||p-ozlugxmb.top^
 ||p-pure.jp^
 ||p-stn.net^
 ||p-td.com^
@@ -121328,6 +121347,7 @@
 ||rvfaohqmauxjvfonekllabahe.qskrjjh.cn^
 ||qskxpvncyjly.com^
 ||qslkthj.com^
+||qsmnt.online^
 ||qsmsmahlrhop.com^
 ||qsptv.net^
 ||qsqj.net^
@@ -122530,6 +122550,7 @@
 ||rahtresses.com^
 ||rahxfus.com^
 ||raialivre.com.br^
+||raideeshaili.net^
 ||raiden.online^
 ||raidframe.info^
 ||ads.raidrush.org^
@@ -138942,7 +138963,7 @@
 ||srvtrck.com^
 ||www.srvtrkxx1.com^
 ||www.srvtrkxx2.com^
-||ad.srvupads.com^
+||srvupads.com^
 ||srwwce.xyz^
 ||srwww1.com^
 ||srx.com.sg^
@@ -141173,6 +141194,7 @@
 ||subscriptioneccentric.com^
 ||subscriptiones-renewals.com^
 ||subsequentmean.com^
+||subsequentoven.info^
 ||subsequentsand.com^
 ||subsequentswim.com^
 ||subserosagrier.life^
@@ -153374,6 +153396,7 @@
 ||offi.ttradinn.top^
 ||tab.ttradinn.top^
 ||wwe.ttradinn.top^
+||ttroytj33.fun^
 ||tts-maker.com^
 ||wsytyz.tts.ru^
 ||allegro.ttsl.pl^
@@ -155582,6 +155605,7 @@
 ||uniqodo.com^
 ||unique.finance^
 ||ad.unique1static.jp^
+||unique3ds.com^
 ||unique6.com^
 ||uniquecaptcha.com^
 ||uniquedesign.ma^
@@ -167527,6 +167551,7 @@
 ||renew-wix-com-pub03d2f577dfc15e9a72e9929c0f2e2.wowoagency.com^
 ||wowoajouptie.xyz^
 ||wowoert.top^
+||wowoghoakru.net^
 ||www.wowostar.cn^
 ||adebisu.wowow.co.jp^
 ||wowpornlist.xyz^
