@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241023161228
-! Last modified: 2024/10/23 16:12:28
-! Blocked domains: 179951
+! Version: 20241024001058
+! Last modified: 2024/10/24 00:10:58
+! Blocked domains: 179974
 ! unBlocked domains: 50
 !
 ||fametech-8489462541.04dyg7jir.info^
@@ -531,6 +531,7 @@
 ||130gelh8q.de^
 ||1310530397.rsc.cdn77.org^
 ||131377.com^
+||1323818756.rsc.cdn77.org^
 ||133u.com^
 ||133uu.com^
 ||ahm.135320.com^
@@ -551,6 +552,7 @@
 ||14202444.xyz^
 ||1437953666.rsc.cdn77.org^
 ||www.143nchrtl3.com^
+||1446023384.rsc.cdn77.org^
 ||148dfe140d0f3d5e.com^
 ||boring-tesla.149-102-231-176.plesk.page^
 ||1493361689.rsc.cdn77.org^
@@ -24032,6 +24034,7 @@
 ||birglucy.xyz^
 ||stats.birgun.net^
 ||birkin30.com^
+||birleeris.com^
 ||birlerskababs.com^
 ||links.emails.birminghammidshires.co.uk^
 ||biroads.com^
@@ -32915,6 +32918,7 @@
 ||new9645.cetusinvestmentsbtc.com^
 ||analytics.ceu.com^
 ||cewghana.com^
+||cexofira.com^
 ||cexohoo.com^
 ||cexucetum.com^
 ||www.cexxd.com^
@@ -33656,6 +33660,7 @@
 ||cheebetoops.com^
 ||cheebilaix.com^
 ||cheecmou.com^
+||cheedroumsoaphu.net^
 ||cheekysleepyreproof.com^
 ||cn4.cheemsporn.com^
 ||mail.cheepwebb.com^
@@ -50130,6 +50135,7 @@
 ||elabs5.com^
 ||elabs6.com^
 ||elabs7.com^
+||eladove.com^
 ||eladproperties.com^
 ||elainasblog.xyz^
 ||smetrics.elal.com^
@@ -63171,6 +63177,7 @@
 ||msweb-protocol-info.gjkptfl.cn^
 ||gjonfartyb.com^
 ||gjrhqyc.com^
+||gjskjzejk.com^
 ||gjtech.net^
 ||gjwos.org^
 ||gk-casino.online^
@@ -71961,6 +71968,7 @@
 ||hybridnetworks.com.ng^
 ||hybridsbatteryworld.com^
 ||tr.communication.hybrigenics.com^
+||hybubehxmv.com^
 ||hycmcapitalmarkets.com^
 ||hycwsw.com^
 ||hycydaimia.org^
@@ -80747,6 +80755,7 @@
 ||tracking.jiffyworld.com^
 ||pro.jig.space^
 ||jigavlogs.com^
+||jiggleowk.com^
 ||jighucme.com^
 ||jignairy.com^
 ||jigsawbanana.com^
@@ -82874,6 +82883,7 @@
 ||data-a351401692.kachelmannwetter.com^
 ||kaciekace.blogspot.com^
 ||xz.kack4lio.ru.com^
+||kacukrunitsoo.net^
 ||kadak.jp^
 ||kadaltd.com^
 ||kadam.net^
@@ -106708,6 +106718,7 @@
 ||nhdave.net^
 ||nheappyrincen.info^
 ||stats.nhg.org^
+||nhgpidvhdzm.vip^
 ||smetrics.nhhealthyfamilies.com^
 ||goat1.nhimmeo.cf^
 ||adsgo.nhipcaudautu.vn^
@@ -110502,6 +110513,7 @@
 ||olitoedr.com^
 ||olitoryhunter.com^
 ||olive-ft.jp^
+||olivecough.com^
 ||olivedinflats.space^
 ||olivefail.com^
 ||olivefamine.com^
@@ -112341,6 +112353,7 @@
 ||oqpahlskaqal.com^
 ||oqqwrjanxy.com^
 ||oqsttfy.com^
+||oquftwsabsep.xyz^
 ||qnbskk.oqvestir.com.br^
 ||oqvzndovoug.com^
 ||oqyiapj.cn^
@@ -116284,6 +116297,7 @@
 ||pessimisticextra.com^
 ||pestcontrolbihar.com^
 ||pesterclinkaltogether.com^
+||pesterolive.com^
 ||pesteroverwork.com^
 ||pesterunusual.com^
 ||pestholy.com^
@@ -116491,6 +116505,7 @@
 ||testdomain.pg.com^
 ||uatpamperstestdomain.pg.com^
 ||vydelavejtesnami.pg.cz^
+||pg2bk.icu^
 ||pgalvaoteles.pt^
 ||pgammedia.com^
 ||returnpath.pgaofamericagolf.com^
@@ -127250,6 +127265,7 @@
 ||pxl.qccerttest.com^
 ||qccoccocmedia.vn^
 ||qceatqoqwpza.com^
+||qcerujcajnme.com^
 ||qch.ge^
 ||qchannel04.cn^
 ||qcjod51vy.top^
@@ -135569,6 +135585,7 @@
 ||news.salonreeduca.com^
 ||salonvoga.com^
 ||u.salony.com^
+||retail-client-events-service.internal.salsify.com^
 ||salsjn.wixsite.com^
 ||salspizzawilliamsburg.com^
 ||saltbistroandcafe.com^
@@ -148988,6 +149005,7 @@
 ||swoopanalytics.com^
 ||swoopanomalousgardener.com^
 ||swoopkennethsly.com^
+||swopsalane.com^
 ||sworatio.co^
 ||swordanatomy.com^
 ||swordbloatgranny.com^
@@ -162591,6 +162609,7 @@
 ||upgastlyr.com^
 ||upgazette.com^
 ||upgliscorom.com^
+||upgoawqlghwh.com^
 ||upgulpinon.com^
 ||sms.uphabit.com^
 ||uphcrjth.xyz^
@@ -163994,6 +164013,7 @@
 ||utpuw.com^
 ||utpxddtc.cfd^
 ||utraff.com^
+||utrdiwdcmhrfon.com^
 ||utrellpark.com^
 ||utrencon.com^
 ||utrius.com^
@@ -171794,6 +171814,7 @@
 ||whetin.com^
 ||whfdny.org^
 ||js.whfyhouse.com^
+||whhasymvi.com^
 ||syndication.whibd.com^
 ||whiboubs.com^
 ||syndication.whibp.com^
@@ -173425,6 +173446,7 @@
 ||inencr.woodhouseclothing.com^
 ||capi.woodhousespas.com^
 ||arphzc.woodica.pl^
+||woodlandanyone.com^
 ||woodlandsmonthlyelated.com^
 ||woodlandsprout826.sbs^
 ||woodlandwalks.xyz^
@@ -174723,6 +174745,7 @@
 ||xasukae.xyz^
 ||xatech.com^
 ||xavaghakfjaiklgjalewag.com^
+||xavitithnga.buzz^
 ||xawab.com^
 ||xawlop.com^
 ||xaxis.com^
