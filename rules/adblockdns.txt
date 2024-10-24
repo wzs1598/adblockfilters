@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241024001058
-! Last modified: 2024/10/24 00:10:58
-! Blocked domains: 179974
+! Version: 20241024084033
+! Last modified: 2024/10/24 08:40:33
+! Blocked domains: 179997
 ! unBlocked domains: 50
 !
 ||fametech-8489462541.04dyg7jir.info^
@@ -261,6 +261,7 @@
 ||banner.101xp.com^
 ||alior.102426.com^
 ||pre.102porno.club^
+||1030671461.rsc.cdn77.org^
 ||103092804.com^
 ||smetrics.1031freshradio.ca^
 ||metric.1035thearrow.com^
@@ -546,6 +547,7 @@
 ||13p76nnir.de^
 ||13tabs.com^
 ||ywrcqa.13wmaz.com^
+||1401315973.rsc.cdn77.org^
 ||api.140proof.com^
 ||www.1414.de^
 ||creative.141live.com^
@@ -3343,6 +3345,7 @@
 ||724sports.com^
 ||72560514.xyz^
 ||72716408.xyz^
+||72888710.xyz^
 ||72em4rive0one.xyz^
 ||72hdgb5o.de^
 ||73336zubo25326.com^
@@ -3591,6 +3594,7 @@
 ||7hor9gul4s.com^
 ||7host.com^
 ||7hrivequ4ntum.xyz^
+||zywjpypco.7hujk.de^
 ||7idea.com^
 ||7insight.com^
 ||7ix.ru^
@@ -15054,6 +15058,7 @@
 ||aproxtrack2.com^
 ||tr.info.aprr.fr^
 ||aprtx.com^
+||apsehick.date^
 ||apserver.net^
 ||apsgwl.in^
 ||tr.apsisforms.com^
@@ -36261,6 +36266,7 @@
 ||cndsnxclub.com^
 ||cndynza.click^
 ||cndyshp.com^
+||cnegrxyu.com^
 ||cnemisfugara.com^
 ||om.cnet.co.uk^
 ||saa.cnet.com^
@@ -59836,6 +59842,7 @@
 ||friday89.com^
 ||fridayaffectionately.com^
 ||fridayarched.com^
+||fridaylocalmanager.duckdns.org^
 ||www.fridaymash.com^
 ||fridaypatnod.com^
 ||fridaywake.com^
@@ -66724,6 +66731,7 @@
 ||habutaeirisate.com^
 ||habutchodset.com^
 ||hacdeg.com^
+||haceroberomaste.com^
 ||www.hacersex.bond^
 ||asp.hachipp119.com^
 ||hack-and-cheats.com^
@@ -72926,6 +72934,7 @@
 ||id-60331.com^
 ||id-65486.com^
 ||vinted-be.id-68621.com^
+||pay.booklng.id-7144893.com^
 ||id-73706.com^
 ||id-7531.com^
 ||id-75312.com^
@@ -73207,6 +73216,7 @@
 ||eel.ieo.do^
 ||www.ieplads.com^
 ||ieplugin.com^
+||ieqmxymlyz.com^
 ||ierdafrica.org.ng^
 ||ies-a.com^
 ||igxqyi.iese.edu^
@@ -88687,6 +88697,7 @@
 ||fsegfy.lepoint.fr^
 ||l.lepoint.fr^
 ||rsc.lepoint.fr^
+||lepomisbunched.com^
 ||leportauprincien.com^
 ||lepszeoceny.pl^
 ||lepubs.com^
@@ -92658,6 +92669,7 @@
 ||a8.lyprimo.jp^
 ||a8cv.lyprinol.jp^
 ||lyqowiabee.live^
+||lyqpmabeddja.com^
 ||lyqywaorya.info^
 ||lyraenchanted.com^
 ||linker.lyrahealth.com^
@@ -100783,6 +100795,7 @@
 ||mopo.jp^
 ||mopub.com^
 ||mopubtrk.com^
+||moqdy.icu^
 ||moqsxdpx.xyz^
 ||moquanad.com^
 ||sstats.mora.jp^
@@ -101628,6 +101641,7 @@
 ||msk.su^
 ||analytics.msk1.ru^
 ||msl.ua^
+||mslfgl434.pages.dev^
 ||smetrics.mslifelines.com^
 ||msmcoa.xyz^
 ||msmcompare.com^
@@ -104656,6 +104670,7 @@
 ||navi77.com^
 ||navi78.ru^
 ||navi8.com^
+||navi87.ru^
 ||navi88.com^
 ||navi99.com^
 ||vinted-polska-rr124.navia.top^
@@ -108091,6 +108106,7 @@
 ||noteszenith.com^
 ||noteszoom.com^
 ||lu9xve2c97l898gjjxv4.notfries.com^
+||notherlicorne.com^
 ||nothingpetwring.com^
 ||nothycantyo.com^
 ||email.noticces.shop^
@@ -134746,6 +134762,7 @@
 ||ruw82qpzxas.appspot.com^
 ||ruwertur.com^
 ||ruwoxglzab.com^
+||ruxmkiqkasw.com^
 ||ruzewiy.com^
 ||ruzotchaufu.xyz^
 ||partner.ruzovyslon.cz^
@@ -139513,6 +139530,7 @@
 ||olx.shfoik.shop^
 ||shfsdvc.com^
 ||shgansheng.cn^
+||shgcdn3.com^
 ||fsbfjp.shhh-online.com^
 ||shhh.lol^
 ||shhort.com^
@@ -156005,6 +156023,7 @@
 ||tmserver-2.net^
 ||marketing.tmshealth.com^
 ||tmska.com^
+||ansfrxyr.tmska.de^
 ||tmsmicro.com^
 ||tmstrack.com^
 ||tmtrck.com^
@@ -159858,6 +159877,7 @@
 ||link.tubi.tv^
 ||tubiflix.us^
 ||tubinclara.com^
+||analytics-ingestion-production.tubitv.com^
 ||cool.tubous.com^
 ||tubroaffs.org^
 ||tubsougn.com^
@@ -161325,6 +161345,7 @@
 ||a8cv.spalab-chintai.uk-corp.co.jp^
 ||www.uk-k8.com^
 ||www.mettle.uk-registeronline.com^
+||uk-tweed-jackets.com^
 ||uk08i.top^
 ||uk49swin.com^
 ||uk88.club^
@@ -164761,6 +164782,7 @@
 ||vatzxd.xyz^
 ||vaugroar.com^
 ||vaukoloon.net^
+||vauloops.net^
 ||marketing.vault49.com^
 ||vaultedsavings.org^
 ||vaultmultiple.com^
@@ -165660,6 +165682,7 @@
 ||profil.vhb.de^
 ||wt.vhb.de^
 ||vhdbohe.com^
+||vhducnso.com^
 ||vheoggjiqaz.com^
 ||vhills.net^
 ||iljfnr.vhmall.net^
