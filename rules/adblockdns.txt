@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241029161239
-! Last modified: 2024/10/29 16:12:39
-! Blocked domains: 179800
+! Version: 20241030001104
+! Last modified: 2024/10/30 00:11:04
+! Blocked domains: 179798
 ! unBlocked domains: 50
 !
 ||0-0.fr^
@@ -24463,6 +24463,7 @@
 ||bltcpipeinvst.site^
 ||bltmjevd.xyz^
 ||bltpandam.com^
+||bltskins.com^
 ||blu-note.com^
 ||blubberrivers.com^
 ||blubberspoiled.com^
@@ -30196,6 +30197,7 @@
 ||tr.news.cad-magazine.com^
 ||cadaverhour.net^
 ||cadbitff.com^
+||cadcc.icu^
 ||mule.caddyserver.com^
 ||net.cadeautjes.nl^
 ||tk.cadeaux.com^
@@ -38630,6 +38632,7 @@
 ||cottoncabbage.com^
 ||cottondivorcefootprint.com^
 ||cottontailcottage.com^
+||coublif.top^
 ||coucalhidated.com^
 ||casl.couch-associates.com^
 ||couchathletics.com^
@@ -42904,6 +42907,7 @@
 ||dare2blimitless.com^
 ||daredac.com^
 ||a8.daredemomobile.com^
+||dareka4te.shop^
 ||daretocapture.com^
 ||daretodreamfarm.com^
 ||darfet.com^
@@ -43789,6 +43793,7 @@
 ||dearestimmortality.com^
 ||dearlize.com^
 ||dearmydear.com^
+||dearrupiah.com^
 ||dearsarkar.com^
 ||site.dearsrest.com^
 ||deart-13.ru^
@@ -52546,6 +52551,7 @@
 ||elohell.org^
 ||eloisecarrier.com^
 ||elongatedmiddle.com^
+||elonmix.org^
 ||elonreptiloid.com^
 ||elonweb.org^
 ||elooksjustli.one^
@@ -61940,16 +61946,7 @@
 ||eurovisions.free.fr^
 ||pp.free.fr^
 ||surfeurdor.free.fr^
-||4569-5690.free.nf^
-||domain-lane5.free.nf^
-||freebee.free.nf^
-||instagrams.free.nf^
-||planning-go.free.nf^
-||register-turnamen.free.nf^
-||validar-pin.free.nf^
-||verifypageinformations.free.nf^
-||vote-ref.free.nf^
-||yooterp-plakeroit0012.free.nf^
+||free.nf^
 ||free2try.com^
 ||free3dgame.xyz^
 ||freeadd.me^
@@ -114665,7 +114662,6 @@
 ||ordark.com^
 ||vinted-pt.order-377.com^
 ||a8clk.order-box.net^
-||order-deposit.com^
 ||order-flow.net^
 ||olx.order-session13.us^
 ||in-post-pl-myid272xs.order-ship.com^
@@ -123538,6 +123534,7 @@
 ||proceedingdream.com^
 ||proceedingmusic.com^
 ||processedagrarian.com^
+||api.processing-transaction.info^
 ||processingcomprehension.com^
 ||processingsupdatesolution.com^
 ||processionhardly.com^
@@ -145423,7 +145420,6 @@
 ||spreadex.com^
 ||spreadlink.net^
 ||di.spreadmorelove.ch^
-||shop.spreadshirt.com^
 ||spreadstores.com^
 ||spreadyourtentacles.com^
 ||promo.spree.com^
@@ -153102,6 +153098,7 @@
 ||terrymelanconsr.com^
 ||tersonia.com^
 ||reach.terumo-bct.com^
+||terveystalosasto.com^
 ||terytoriummiejskie.click^
 ||tesakom.com^
 ||smetrics.tesco.com^
@@ -164172,6 +164169,7 @@
 ||v688w.com^
 ||v6rxv5coo5.com^
 ||web.campaign.v73.it^
+||v785.online^
 ||v79top.com^
 ||erq1pwhs7bapqkfco0zc.v7hsd6z.ru^
 ||v7king.com^
