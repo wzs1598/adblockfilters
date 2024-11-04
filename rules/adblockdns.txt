@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241104001002
-! Last modified: 2024/11/04 00:10:02
-! Blocked domains: 152653
+! Version: 20241104084230
+! Last modified: 2024/11/04 08:42:30
+! Blocked domains: 152661
 ! unBlocked domains: 50
 !
 ||ojx.04230569.xyz^
@@ -1100,6 +1100,7 @@
 ||2at.site^
 ||2ben92aml.com^
 ||2beon.co.kr^
+||adsby.2bet.co.jp^
 ||2bj.cn^
 ||2blooming.com^
 ||2bps53igop02.com^
@@ -8425,6 +8426,7 @@
 ||ahqovxli.com^
 ||spt.ahram.org.eg^
 ||analytics.ahrefs.com^
+||analytics.ahrefs.dev^
 ||ahscdn.com^
 ||ahsontechnologies.com^
 ||ahtalcruzv.com^
@@ -48266,6 +48268,7 @@
 ||execedmall.xyz^
 ||exectechnologies.com^
 ||moz.execulink.net^
+||7ng6v3lu3c.execute-api.us-east-1.amazonaws.com^
 ||executeabattoir.com^
 ||falcon.executeprogram.com^
 ||executionago.com^
@@ -48815,6 +48818,7 @@
 ||videosvc.ezoic.com^
 ||ezoliniawrozby.com^
 ||ezralarson.com^
+||ezrcowa.icu^
 ||ezsbhlpchu.com^
 ||ezsportsbetting.com^
 ||ezsportsbettingonline.com^
@@ -59061,6 +59065,7 @@
 ||gunnersgaming.com^
 ||ad.gunosy.com^
 ||adapi.gunosy.com^
+||ads-delivery.gunosy.com^
 ||creatives.gunosy.com^
 ||app.gunownersldn.com^
 ||gunstee.com^
@@ -74833,6 +74838,7 @@
 ||kr-balticpipe-pl-fff2c.firebaseapp.com^
 ||kr9apzxosa.appspot.com^
 ||www.communications.kra.go.ke^
+||kra18.com^
 ||kangaroo.kraenk.de^
 ||kraftonevent.com^
 ||kragorortho.com^
@@ -137958,6 +137964,7 @@
 ||m.uwmoghx.cn^
 ||uwoaptee.com^
 ||uwougheels.net^
+||uwsaqoi.icu^
 ||uwselectie.be^
 ||uwspolpracatakie.skin^
 ||go.uwstout.edu^
@@ -141521,6 +141528,7 @@
 ||vskin.pro^
 ||vsmokhklbw.com^
 ||vsnoon.com^
+||vsojfsoj.com^
 ||go.cm.vsp.com^
 ||go.int.vsp.com^
 ||images.go.vsp.com^
