@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241109161023
-! Last modified: 2024/11/09 16:10:23
-! Blocked domains: 177705
+! Version: 20241110000857
+! Last modified: 2024/11/10 00:08:57
+! Blocked domains: 177723
 ! unBlocked domains: 50
 !
 ||0-0.fr^
@@ -17654,6 +17654,7 @@
 ||srepdata.azcentral.com^
 ||sxjfhh.azcentral.com^
 ||azclip.co.ua^
+||azcmcacuc.com^
 ||azcodegenerator.com^
 ||go.azcommerce.com^
 ||smetrics.azcompletehealth.com^
@@ -18784,6 +18785,7 @@
 ||somni.banzel.com^
 ||ads.baoangiang.com.vn^
 ||adv.baoangiang.com.vn^
+||baobabsruesome.com^
 ||log.baobackan.com.vn^
 ||ads.baobinhduong.vn^
 ||ads.baobinhthuan.com.vn^
@@ -37338,6 +37340,7 @@
 ||concash.pl^
 ||concealedcredulous.com^
 ||concealmentbrainpower.com^
+||concedederaserskyline.com^
 ||conceitedfedapple.com^
 ||conceitslidpredicate.com^
 ||conceivedtowards.com^
@@ -37656,6 +37659,7 @@
 ||consltr.com^
 ||tr.info.conso-expert.fr^
 ||yyi7.consobaby.de^
+||consolationgratitudeunwise.com^
 ||castlecrashers.console2pc.info^
 ||forza.console2pc.info^
 ||godsamongus.console2pc.info^
@@ -55954,6 +55958,7 @@
 ||feistyhelicopter.com^
 ||feitian001.com^
 ||feitianma.com^
+||feittoill.com^
 ||feixin2.com^
 ||down.feiyang163.com^
 ||down2.feiyang163.com^
@@ -57849,6 +57854,7 @@
 ||email.mail.floatme.io^
 ||go.flocabulary.com^
 ||floccischlump.com^
+||flockexecute.com^
 ||flockinjim.com^
 ||flockrocket.io^
 ||flocksqqber.life^
@@ -63201,6 +63207,7 @@
 ||gkjoanks.com^
 ||video.gkojt2.bio^
 ||gkpohvff.com^
+||gkrtgrcquwttq.xyz^
 ||gk.gkservices.com^
 ||gkswas.xyz^
 ||gkuniversityonline.com^
@@ -67042,6 +67049,7 @@
 ||web.hakanorhan.com^
 ||a8.hakata-hisamatsu.net^
 ||hakerzy.net^
+||hakqkhtlav.com^
 ||haksaigho.com^
 ||hakunaguarderia.com^
 ||lrdxki.hakutou-shop.com^
@@ -92385,6 +92393,7 @@
 ||lutelu.com^
 ||luthercreek.com^
 ||lutherinfo2.com^
+||lutoorgourgi.com^
 ||lutrbr.xyz^
 ||lutrija.co.me^
 ||lutrija.hr^
@@ -97519,6 +97528,7 @@
 ||mhlnk.com^
 ||mhmoni.com^
 ||metrics.mhn.com^
+||mhndfpbssfcsr.com^
 ||metrics.mhngs.com^
 ||mhnzhlase.xyz^
 ||mhp.su^
@@ -104526,6 +104536,7 @@
 ||logs.naukri.com^
 ||nauloapt.com^
 ||my.nauphilus.io^
+||naupsakiwhy.com^
 ||naupseko.com^
 ||nauseacomplimentary.com^
 ||nauthait.com^
@@ -111626,6 +111637,7 @@
 ||ooliticcabbler.com^
 ||www.oollttqq.com^
 ||ooloptou.net^
+||oolsutsougri.net^
 ||social.oomi.co.uk^
 ||link.oomph.app^
 ||oomphavenger.com^
@@ -122767,6 +122779,7 @@
 ||psooxakree.com^
 ||metrics.psoriasisuncovered.com^
 ||psorismax.pl^
+||psoroumukr.com^
 ||psotevrrnoe.top^
 ||psothoms.com^
 ||psotudev.com^
@@ -135005,6 +135018,7 @@
 ||smetrics.schindler.sg^
 ||smetrics.schindler.vn^
 ||schington.com^
+||schizypdq.com^
 ||mktg.schlage.com^
 ||nrqsqq.schlanser.ch^
 ||trail-001.schleich-s.com^
@@ -158253,6 +158267,7 @@
 ||turmoilragcrutch.com^
 ||web.news.turnbullandasser.co.uk^
 ||cdn.turnclick.com^
+||turndynamicforbes.com^
 ||metrics.turner.com^
 ||s.cdn.turner.com^
 ||securetenilstats.turner.com^
@@ -162443,6 +162458,7 @@
 ||valerieurania.com^
 ||valesweetheartconditions.com^
 ||valetize.one^
+||valetsangoise.top^
 ||valetsword.com^
 ||valetta.pl^
 ||valetudinarianismslinging.shop^
@@ -163002,6 +163018,7 @@
 ||vempeeda.com^
 ||vempozah.net^
 ||cdp.vemt.com^
+||vemtoutcheeg.com^
 ||shkccn.vemzu.cz^
 ||venatusmedia.com^
 ||amarracaoamorosa.site.vencendosempre.com.br^
@@ -171208,6 +171225,7 @@
 ||inencr.woodhouseclothing.com^
 ||capi.woodhousespas.com^
 ||arphzc.woodica.pl^
+||woodieababua.com^
 ||woodlandanyone.com^
 ||woodlandcedarroot439.sbs^
 ||woodlandsmonthlyelated.com^
