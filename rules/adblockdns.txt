@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241110000857
-! Last modified: 2024/11/10 00:08:57
-! Blocked domains: 177723
+! Version: 20241110084312
+! Last modified: 2024/11/10 08:43:12
+! Blocked domains: 177732
 ! unBlocked domains: 50
 !
 ||0-0.fr^
@@ -6761,7 +6761,6 @@
 ||addomain.net^
 ||addonsmash.com^
 ||addotnet.com^
-||addr.cx^
 ||data-98b5a11c9b.addradio.de^
 ||addrawlestrk.com^
 ||addres-ca.info^
@@ -9537,6 +9536,7 @@
 ||insights.aiu.sg^
 ||aiuknf.org^
 ||aivaylaco.com^
+||lcd.aivote.com^
 ||aiwanma99.com^
 ||aiwealthwizard.pro^
 ||aiwen.cc^
@@ -38402,6 +38402,7 @@
 ||correopista.com^
 ||correors.my^
 ||correos-app.help^
+||correos-app.link^
 ||correos-cr.art^
 ||correos-es.club^
 ||correos-es.my^
@@ -82962,6 +82963,7 @@
 ||aozmpm.jwell.com^
 ||webtrack.jwgrant.co.uk^
 ||updates.jwhillcountryresort.com^
+||jwhjqjfl.icu^
 ||jwia0.top^
 ||jwlabsolutions.com^
 ||jwllogic.com^
@@ -83962,6 +83964,7 @@
 ||royal-glade-286f.kdsj.workers.dev^
 ||kdsk32lfa.xyz^
 ||kdufhr.xyz^
+||kdzgrvn.icu^
 ||keagypickard-helpcenter-8597.pages.dev^
 ||keap.page^
 ||keapeiros.xyz^
@@ -104611,6 +104614,7 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi40.com^
+||navi42.ru^
 ||navi45.ru^
 ||navi5.com^
 ||navi50.com^
@@ -131927,6 +131931,7 @@
 ||www.roninbridge.app^
 ||ronite.top^
 ||ronmen.top^
+||ronnoble.com^
 ||ronpaulinstitute.org^
 ||ronslik.com^
 ||staging-refer.rooam.co^
@@ -137794,6 +137799,7 @@
 ||sheryoo.com^
 ||sherzer.com^
 ||sheschemetraitor.com^
+||shestieh.com^
 ||shestour.net^
 ||shestrozo.com^
 ||shesubscriptions.com^
@@ -143889,6 +143895,7 @@
 ||stalkanalysis.ru^
 ||stalkerlagunes.shop^
 ||stalkforx.ru^
+||stallioncredit.com^
 ||stallionsmile.com^
 ||stallionvigor.com^
 ||stallsmalnutrition.com^
@@ -152933,6 +152940,7 @@
 ||skink.thoumi.ch^
 ||thouphouwhad.net^
 ||thoupsuk.net^
+||thouptoorg.com^
 ||thousandinvoluntary.com^
 ||jdzmqj.thousandtrails.com^
 ||thousheek.com^
@@ -160134,6 +160142,7 @@
 ||uniquemelink.com^
 ||lp.uniqueperformance.site^
 ||uniquepowerbd.com^
+||uniqueshirt.shop^
 ||uniqueworldlimo.com^
 ||uniradiant.com^
 ||uniregistry.com^
