@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241113001048
-! Last modified: 2024/11/13 00:10:48
-! Blocked domains: 161189
+! Version: 20241113084033
+! Last modified: 2024/11/13 08:40:33
+! Blocked domains: 161198
 ! unBlocked domains: 43
 !
 ||0-0.fr^
@@ -15780,6 +15780,7 @@
 ||metrics.asos.com^
 ||metric.asos.de^
 ||creativeassets.asosservices.com^
+||rapid-glade-cde8.asoumare042024.workers.dev^
 ||asound.no^
 ||asoursuls.com^
 ||asozordoafie.com^
@@ -17320,6 +17321,7 @@
 ||avsink3431.fun^
 ||avskjvlays.info^
 ||avskype.com^
+||avspda.xyz^
 ||avsplow.com^
 ||info.avtechcapital.com^
 ||info.avtecinc.com^
@@ -58299,6 +58301,7 @@
 ||gdmdigital.com^
 ||www.gdmengyi.com^
 ||gdmgsecure.com^
+||gdpr-legal-cookie.com^
 ||gdpr-service.herokuapp.com^
 ||gdpr-settings.s3.amazonaws.com^
 ||gdpr.es^
@@ -59366,6 +59369,7 @@
 ||ghazel.ru^
 ||hchlqx.ghbass.com^
 ||ghbdsbfd.com^
+||gheqien.com^
 ||ghgasdt963.shop^
 ||ghiftshop.com^
 ||smetrics.ghirardelli.com^
@@ -82461,6 +82465,7 @@
 ||ioxqdp.leatherology.com^
 ||leatherqueen.shop^
 ||leatmansures.com^
+||stats.leavemealone.com^
 ||leaveoverwork.com^
 ||leavesofgrassmovie.com^
 ||leaveundo.com^
@@ -84586,6 +84591,7 @@
 ||locooler-ageneral.com^
 ||go.locosonic.com^
 ||locotrack.net^
+||locpikbb.icu^
 ||locrian-verbena-aerosteon.glitch.me^
 ||azwucq.locservice.fr^
 ||locsud.com^
@@ -90544,6 +90550,7 @@
 ||mizzen.com.ph^
 ||mj-snowplow-static-js.s3.amazonaws.com^
 ||mj70.cn^
+||mjbidlg.icu^
 ||app.mjec.ca^
 ||mjfcv.club^
 ||lucid.mjhassoc.com^
@@ -156751,6 +156758,7 @@
 ||buzzer.xhamster.com^
 ||cnt.xhamster.com^
 ||cnt1.xhamster.com^
+||collector-direct.xhamster.com^
 ||collector1.xhamster.com^
 ||m2.xhamster.com^
 ||marine.xhamster.com^
@@ -156777,6 +156785,7 @@
 ||rockpoint.xhamster42.desi^
 ||xhamstercams.com^
 ||go.xhamsterlive.com^
+||collector.xhamsterporno.mx^
 ||xhbshv.xyz^
 ||xhbulmpl.com^
 ||veih8bee.xhcdn.com^
