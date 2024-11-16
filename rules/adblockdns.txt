@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241116161119
-! Last modified: 2024/11/16 16:11:19
-! Blocked domains: 159273
+! Version: 20241117000935
+! Last modified: 2024/11/17 00:09:35
+! Blocked domains: 159300
 ! unBlocked domains: 34
 !
 ||00808.vip^
@@ -2053,6 +2053,7 @@
 ||86db9e5725.3a566f6dd0.com^
 ||d95a982a89.3a9e260227.com^
 ||3acf699e5d.com^
+||3ad2ae645c.com^
 ||www.3alian.net^
 ||3am.info^
 ||3animalsex.com^
@@ -9848,6 +9849,7 @@
 ||alfatarget.ru^
 ||alfatnabeauty.com^
 ||alfcasino.com^
+||alfelixstownrus.org^
 ||alfelixstownrusis.info^
 ||alfolw.dk^
 ||alfredlivery.com^
@@ -11995,6 +11997,7 @@
 ||antonysurface.com^
 ||antorchasdehumo.com^
 ||antpeelpiston.com^
+||antralhokier.shop^
 ||antsafe.com^
 ||anttere.com^
 ||antucraser.xyz^
@@ -27909,6 +27912,7 @@
 ||kagjin.bottegaverde.it^
 ||smetrics.bottegaverde.it^
 ||takin.bottlebeagle.com^
+||bottledchagrinfry.com^
 ||bottledfriendship.com^
 ||bottleguy.com^
 ||bottleschance.com^
@@ -28981,6 +28985,7 @@
 ||bstats.org^
 ||jupiter-e.bstcorlon.care^
 ||bstlnk.com^
+||bsvhxfxckrmixla.xyz^
 ||bsvkfwth.xyz^
 ||mobile.bswift.com^
 ||bswiftmail.com^
@@ -35803,6 +35808,7 @@
 ||cnlink8.com^
 ||rf.cnlongshou.com^
 ||icon.cnmo.com^
+||webcert.cnmstl.net^
 ||agility.cnn.com^
 ||cnn.dyn.cnn.com^
 ||collector-dev.cdp-dev.cnn.com^
@@ -38226,6 +38232,7 @@
 ||coohaiwhoonol.net^
 ||cooingcoal.com^
 ||track.cooins.mobi^
+||coojohoaboapee.xyz^
 ||cookcountyrecord.com^
 ||app.cookdtv.com^
 ||cookerybands.com^
@@ -52476,6 +52483,7 @@
 ||etiro-neys.online^
 ||etisalatebill.net^
 ||etisassi.com^
+||stats.etix.vn^
 ||etkf44.com^
 ||etkht.cn^
 ||etm-consult.de^
@@ -53347,6 +53355,7 @@
 ||xylem.ewebtel.com^
 ||eweconciliate.com^
 ||ewehsan.com^
+||eweisiw.top^
 ||baaa.ewelinajaniak.pl^
 ||bass.ewelinajaniak.pl^
 ||beara.ewelinajaniak.pl^
@@ -62216,6 +62225,7 @@
 ||girl30.com^
 ||girlcc.cc^
 ||www.girlfriendactivationsystem.com^
+||girlfriendwisely.com^
 ||girlmeetspeople.blogspot.com^
 ||adrotic.girlonthenet.com^
 ||girlownedbypolicelike.blogspot.com^
@@ -65250,6 +65260,7 @@
 ||gtsads.com^
 ||c.gtsepress.vip^
 ||w.gtsepress.vip^
+||gtsgeoyb.com^
 ||gtsmapserver.com^
 ||gtsmobi.com^
 ||gtsnews.net^
@@ -66938,6 +66949,7 @@
 ||metrics.hctra.com^
 ||metrics.hctra.org^
 ||hcvegu.com^
+||hcvjvmunax.com^
 ||zuglvn.hcwgq.xyz^
 ||img.hcwifi.cn^
 ||hczzw.com^
@@ -67805,6 +67817,7 @@
 ||yzvpco.hfashionmall.com^
 ||hfc195b.com^
 ||hfcofficial.com^
+||hfdfyrqj-ws.club^
 ||hfeoveukrn.info^
 ||hffabricaciones.com^
 ||sstats.hfflp.com^
@@ -68503,6 +68516,7 @@
 ||adbsmetrics.ep.hmc.co.kr^
 ||hmcvs.cn^
 ||hmepalobfn.com^
+||hmfxgjcxhwuix.com^
 ||marketing.hmg.eu^
 ||dep.hmgroup.com^
 ||ma.hmhco.com^
@@ -69920,6 +69934,7 @@
 ||hsiamensilper.com^
 ||hskads.com^
 ||hskctjuticq.com^
+||hsklyftbctlrud.com^
 ||hskujw2.com^
 ||go.hslda.org^
 ||tgb.hsmedia.ru^
@@ -79011,6 +79026,7 @@
 ||joituleffewau-2260.vercel.app^
 ||jojog.com^
 ||jojosfashion.com^
+||jojqyxrmh.com^
 ||jokckb.top^
 ||tracking.joker.com^
 ||www.joker123.net^
@@ -83889,6 +83905,7 @@
 ||laxleader.com^
 ||c.laxnlqn.cn^
 ||v.laxnlqn.cn^
+||laxpanvzelz.com^
 ||layer-ad.de^
 ||layer-ad.org^
 ||layer-ads.de^
@@ -104686,6 +104703,7 @@
 ||osuwzo.oyunfor.com^
 ||oywhowascryingfo.com^
 ||oywzrri.com^
+||oyxkrulpwculq.com^
 ||aqffgt.oyxts.xyz^
 ||ad.oyy.ru^
 ||data-d4db30a18b.oz-online.de^
@@ -106990,6 +107008,7 @@
 ||petronasn.com^
 ||petroplexnews.com^
 ||go.petroskills.com^
+||petrosunnier.shop^
 ||stats.petrotimes.vn^
 ||petrovka-online.com^
 ||petrushka-restoran.ru^
@@ -117450,6 +117469,7 @@
 ||rbrbr88p.cn^
 ||rbrightscarletcl.info^
 ||rbrmhz.xyz^
+||rbropocxt.com^
 ||rbrxg.com^
 ||clicks.rbs.co.uk^
 ||metrics.winsc.rbs.co.uk^
@@ -126696,6 +126716,7 @@
 ||mail.siom.ac.cn^
 ||sionconsultores.com^
 ||sionicmedia.com^
+||sionscormation.org^
 ||siouxcitytimes.com^
 ||siouxempiretoday.com^
 ||axp.siouxlandproud.com^
@@ -136732,6 +136753,7 @@
 ||app.go.terremark.com^
 ||terrex.pl^
 ||terriblethumb.com^
+||terrificdark.com^
 ||terrifyingcovert.com^
 ||assets2.terrischeer.com.au^
 ||terrout9.biz^
@@ -139151,6 +139173,7 @@
 ||tjnwfjy.cn^
 ||rzodao.tjock.se^
 ||tjoomo.com^
+||tjpzz.buzz^
 ||tjq.com^
 ||tjqwb.cn^
 ||tjsfb.net^
@@ -146634,6 +146657,7 @@
 ||vavietcombank.cc^
 ||vavotel.com^
 ||vavuwetus.com^
+||vawk0ap3.xyz^
 ||vax-boost.com^
 ||tracking.vaxjobladet.se^
 ||vaxoovos.net^
@@ -146791,6 +146815,7 @@
 ||tracking-rce.veeseo.com^
 ||tracking.rce.veeseo.com^
 ||go.veeva.com^
+||veezudeedou.net^
 ||vefbordi.is^
 ||vegabet.net^
 ||tracking.vegaid.vn^
@@ -149384,6 +149409,7 @@
 ||vs3.com^
 ||usbu.vsbocglo.top^
 ||track.vscash.com^
+||vscinyke.com^
 ||links.official.vsco.co^
 ||vscore.bet^
 ||vscore.online^
@@ -156990,6 +157016,7 @@
 ||you4cdn.com^
 ||you4love.jp^
 ||youa.net^
+||youaixx.xyz^
 ||metrics.youandyourwedding.co.uk^
 ||youappi.com^
 ||applink.youareaceo.com^
