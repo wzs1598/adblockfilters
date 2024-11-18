@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241118000923
-! Last modified: 2024/11/18 00:09:23
-! Blocked domains: 179349
+! Version: 20241118084431
+! Last modified: 2024/11/18 08:44:31
+! Blocked domains: 179361
 ! unBlocked domains: 50
 !
 ||promomtevote.000.pe^
@@ -10284,7 +10284,9 @@
 ||metrics.airtv.net^
 ||smetrics.airtv.net^
 ||airup-bottlegreece.com^
+||airup-fi.com^
 ||airup-gr.com^
+||airup-it.shop^
 ||airup-nederland.com^
 ||airup-romania.com^
 ||airupbelgiums.com^
@@ -51510,6 +51512,7 @@
 ||plconnectpost.dns.army^
 ||refundcustomer.dns.army^
 ||weryfikacjakonta.dns.army^
+||stat.dns.sb^
 ||dns05.com^
 ||pl.busan.dns2.us^
 ||brands.newst.dnsabr.com^
@@ -65832,6 +65835,7 @@
 ||friday89.com^
 ||fridayaffectionately.com^
 ||fridayarched.com^
+||fridaylocalmanager.duckdns.org^
 ||www.fridaymash.com^
 ||fridaypatnod.com^
 ||fridaywake.com^
@@ -77976,6 +77980,8 @@
 ||analytics.htmedia.in^
 ||analytics.dev.htmedia.in^
 ||html-load.cc^
+||cwa.html.zone^
+||umm.html.zone^
 ||cdn.html5maker.com^
 ||htmlads.s3.amazonaws.com^
 ||3ff7c459-86b2-4f6d-b6b0-ba6402ef6cb0.htmlcomponentservice.com^
@@ -79782,6 +79788,7 @@
 ||ifleadhad.live^
 ||iflirts.com^
 ||ifllwfs.com^
+||iflucav.icu^
 ||api.iflychat.com^
 ||log.iflytek.com^
 ||logconf.iflytek.com^
@@ -104800,7 +104807,6 @@
 ||marketinga.modcloth.com^
 ||metric.modcloth.com^
 ||metrics.modcloth.com^
-||moddetail.com^
 ||modechallenges.com^
 ||modechic.site^
 ||modelatos.com^
@@ -108281,6 +108287,7 @@
 ||mx.mywd.com^
 ||news.mywd.com^
 ||pl.mywd.com^
+||myweaithsimple.com^
 ||mywealthpl.org^
 ||cars-taxonomy.mywebartist.eu^
 ||mywebcamstudio.com^
@@ -109185,6 +109192,7 @@
 ||navi23.com^
 ||navi23.ru^
 ||navi24.ru^
+||navi29.com^
 ||navi3.com^
 ||navi32.com^
 ||navi35.ru^
@@ -109199,6 +109207,7 @@
 ||navi59.ru^
 ||navi6.com^
 ||navi66.ru^
+||navi70.com^
 ||navi72.com^
 ||navi72.ru^
 ||navi77.com^
@@ -128051,6 +128060,7 @@
 ||idlqzb.puntoscolombia.com^
 ||pages.mail.puntoscolombia.com^
 ||afaron.punuj.my.id^
+||punyauang.xyz^
 ||punyplant.com^
 ||advert.punyu.com^
 ||pupkeptale.live^
@@ -173627,6 +173637,7 @@
 ||wwall.wsepliber.info^
 ||widol.wseppond.info^
 ||wsgabiru.com^
+||wsgnihbh.icu^
 ||wsgwc.com^
 ||cdn.wshareit.com^
 ||cdn.bss.wshareit.com^
@@ -178059,6 +178070,7 @@
 ||go.zerotothree.org^
 ||zttemail.zerotothree.org^
 ||go.zerotrackr.com^
+||zerowasteinitiative.com^
 ||zesemen.cz^
 ||zesep.com^
 ||zeshanhaider.com^
