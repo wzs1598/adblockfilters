@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241126001129
-! Last modified: 2024/11/26 00:11:29
-! Blocked domains: 182288
+! Version: 20241126084322
+! Last modified: 2024/11/26 08:43:22
+! Blocked domains: 182307
 ! unBlocked domains: 49
 !
 ||t-me.000.pe^
@@ -65,7 +65,7 @@
 ||9d0a3ce113.0935feb05f.com^
 ||0940088.com^
 ||0941.org^
-||a34e127dc8.095f2fc218.com^
+||095f2fc218.com^
 ||09745951.xyz^
 ||09bestk8.com^
 ||09zyy.com^
@@ -3139,6 +3139,7 @@
 ||6amateure.net^
 ||link.6amcity.com^
 ||6avz.com^
+||6b6c1b838a.com^
 ||f860ddd061.6bc1f4d014.com^
 ||6bgaput9ullc.com^
 ||6brant11fe11ven.life^
@@ -4051,7 +4052,7 @@
 ||943d6e0643.com^
 ||945355.com^
 ||94597672.xyz^
-||3927797c1f.94789b3f8f.com^
+||94789b3f8f.com^
 ||94870bbbc9.com^
 ||0542cd0873.94a1b78c82.com^
 ||94cdn.com^
@@ -61124,6 +61125,7 @@
 ||evsopi.com^
 ||evstockexchange.com^
 ||joshtest1.evsuite.com^
+||evsw-zfdmag.one^
 ||trk.evtechexpo.com^
 ||trk.evtechexpo.eu^
 ||ads.evtv1.com^
@@ -70585,6 +70587,7 @@
 ||info.genialklick.ch^
 ||genialsleptworldwide.com^
 ||connect.geniecompany.com^
+||event.geniee-search.net^
 ||geniee.jp^
 ||genieedmp.com^
 ||genieessp.jp^
@@ -71133,6 +71136,7 @@
 ||gfufutakba.com^
 ||gfunwoakvgwo.com^
 ||cat.gfx.io^
+||gfxdn.pics^
 ||gfylyw.xyz^
 ||gg-bet-pl.com^
 ||gg-bet.de^
@@ -72551,6 +72555,7 @@
 ||gokinjolove.net^
 ||gokinjoscreen.com^
 ||gokliks.ru^
+||gokrafxr.icu^
 ||gokuhuku.jp^
 ||ebis.gokusen-ichiba.com^
 ||gokusenn.jp^
@@ -73445,6 +73450,7 @@
 ||gqdfgyz.cn^
 ||gqfuf.com^
 ||gqjdweqs.com^
+||gqrvpwdps.com^
 ||gquwuefddojikxo.xyz^
 ||gr-wcon.com^
 ||gr88.com^
@@ -77848,6 +77854,7 @@
 ||tracking.hivecloud.net^
 ||hivecn.cn^
 ||link.hivexchange.com.au^
+||hivorltuk.com^
 ||info.hiway.org^
 ||ban.hiwit.com^
 ||hipub.hiwit.org^
@@ -89525,6 +89532,7 @@
 ||www1.jplawfirm.org^
 ||jpmcabp.com^
 ||cr.jpmchase.com^
+||jpmkbcgx-o.buzz^
 ||metrics.jpmorgan.com^
 ||pbstats.jpmorgan.com^
 ||metrics.jpmorganfunds.com^
@@ -91882,6 +91890,7 @@
 ||khangalenten.click^
 ||khanjeeyapness.website^
 ||kharkov.ua^
+||khastreol.com^
 ||khatexcepeded.info^
 ||khcn-han-muc-tin-dung-ca-nhan.com^
 ||khekwufgwbl.com^
@@ -115940,6 +115949,7 @@
 ||oiavdib.com^
 ||oicana-34794-myltabas.pages.dev^
 ||oijkse.com^
+||oijzvhzt.com^
 ||oil-edge.com^
 ||oil-loophole.com^
 ||oil-mastery.com^
@@ -122165,6 +122175,7 @@
 ||tr.mail.perial.info^
 ||pericirran.com^
 ||go.pericom.com^
+||pericuelysian.top^
 ||t.perigold.com^
 ||perigshfnon.com^
 ||perilastronaut.com^
@@ -127242,6 +127253,7 @@
 ||rdtk.primate.diet^
 ||campaigns.primaverabss.com^
 ||www.wp8.primawebovky.cz^
+||prime-ever.com^
 ||prime-vpnet.com^
 ||primeacessoriosmg.com^
 ||primead.jp^
@@ -135060,6 +135072,7 @@
 ||rddywd.com^
 ||www.rdeswa1.com^
 ||www.rdezbie.com^
+||rdfeweqowhd.com^
 ||rqnw.rdiieh.top^
 ||rdiul.com^
 ||rdldtrk.com^
@@ -143661,6 +143674,7 @@
 ||af.shozankan-shop.com^
 ||marketing.shpfinancial.com^
 ||shproud.com^
+||shprybatnm.com^
 ||shqbsdjatunl.com^
 ||shredassortmentmood.com^
 ||images.learn.shredit.com^
@@ -160405,6 +160419,7 @@
 ||tramerodemelerimiz.blogspot.com^
 ||metrics.trammellcrow.com^
 ||smetrics.trammellcrow.com^
+||tramordinaleradicate.com^
 ||trampam.co^
 ||trampolina.biz^
 ||fish.trampoline.cx^
@@ -163234,6 +163249,7 @@
 ||ubar-pro4.ru^
 ||ubar.pro^
 ||ubbfpm.com^
+||ubbkfvtfmztilo.com^
 ||images.engage.ubc.ca^
 ||mdws.ubcu.ca^
 ||ubdmfxkh.com^
@@ -180258,6 +180274,7 @@
 ||f.yourl.jp^
 ||metrics.yourlexusdealer.com^
 ||articles.yourlifetimebenefits.com^
+||yourluckydates.com^
 ||yourlustmedia.com^
 ||image.yourmeliahotel.com^
 ||images.info.yourmobilitypartner.com^
@@ -181167,6 +181184,7 @@
 ||zercenius.com^
 ||zerg.pro^
 ||zergnet.com^
+||zergsmjy.com^
 ||ssc.zeriamerikes.com^
 ||zerioncc.pl^
 ||applinks.zerista.com^
@@ -182181,6 +182199,7 @@
 ||data-4fa18eb5e3.zvw.de^
 ||zvwhrc.com^
 ||tkzq.zvyqgi.top^
+||zvzmzrarkvqyb.top^
 ||zwaar.net^
 ||zwaar.org^
 ||zcp.zwame.pt^
