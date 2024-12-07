@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241207161125
-! Last modified: 2024/12/07 16:11:25
-! Blocked domains: 165722
+! Version: 20241208000953
+! Last modified: 2024/12/08 00:09:53
+! Blocked domains: 165753
 ! unBlocked domains: 49
 !
 ||ausdedaoubaandoub.0351tylz.com^
@@ -1570,6 +1570,7 @@
 ||1202bb3601.29972123f3.com^
 ||29999y.com^
 ||29apfjmg2.de^
+||29b124c44a.com^
 ||jshkyh.29cm.co.kr^
 ||29f37d2f17.com^
 ||29s55bf2.de^
@@ -11556,6 +11557,7 @@
 ||aninter.net^
 ||anipawbag.com^
 ||a8.anipos.com^
+||anisoinmetrize.top^
 ||sgtm.anita.com^
 ||anitechsystems.com^
 ||aniview.com^
@@ -26019,6 +26021,7 @@
 ||borillettrk.com^
 ||boringbegglanced.com^
 ||boringcoat.com^
+||boringoccasion.pro^
 ||stats.boringproxy.io^
 ||data-79505c2b06.borkenerzeitung.de^
 ||data-d4db30a18b.borkumer-zeitung.de^
@@ -27536,6 +27539,7 @@
 ||bulleprivee.com^
 ||www.bulletads.com^
 ||bulletbets.com^
+||bullfeeding.com^
 ||ad.bullguard.com^
 ||adv.bullguard.com^
 ||deals.bullguard.com^
@@ -31083,6 +31087,7 @@
 ||chocosmilefiesta874.sbs^
 ||chocosparkadventure480.sbs^
 ||chocosparkjoy152.sbs^
+||chodraihooksar.com^
 ||choicadesign.com^
 ||choicecdb.com^
 ||choicedealz.com^
@@ -31314,6 +31319,7 @@
 ||bio.chups.co^
 ||chupsanpham88.com^
 ||chuptuwais.com^
+||churauwoch.com^
 ||churay-development.com^
 ||churchalexis.com^
 ||churchfoodie.com^
@@ -32295,6 +32301,7 @@
 ||ad.clicrbs.com.br^
 ||ypkado.clicrbs.com.br^
 ||clicvortex.com^
+||cliegacklianons.com^
 ||cliencywast.top^
 ||cliennes.com^
 ||smetrics.client-services.ca^
@@ -33004,6 +33011,7 @@
 ||cnscompletenotaryservices.com^
 ||www.cnstats.com^
 ||cnstats.ru^
+||cnstrc.com^
 ||cnt.my^
 ||cnt1.net^
 ||phpstat.cntcm.com.cn^
@@ -37317,6 +37325,7 @@
 ||curacaocrafty.top^
 ||curaguy.com^
 ||apqmxf.curama.jp^
+||tracker.curama.jp^
 ||curatorberiber.click^
 ||quokka.curbnumberpro.com^
 ||stats.curds.io^
@@ -77930,6 +77939,7 @@
 ||ezobam.jdsports.nl^
 ||uyhxjy.jdsports.se^
 ||app.communications.jdsu.com^
+||jealousstarw.shop^
 ||jean-wr.com^
 ||jeanspurrcleopatra.com^
 ||jebul.info^
@@ -79384,6 +79394,7 @@
 ||kabodcaribbean.com^
 ||kaboo.com^
 ||kabubi-safaris.com^
+||kabudckn.com^
 ||kaciekace.blogspot.com^
 ||xz.kack4lio.ru.com^
 ||kacukrunitsoo.net^
@@ -80720,6 +80731,7 @@
 ||kjbbc.net^
 ||kjdbcjkmc.com^
 ||kjhghkghgh.shop^
+||kjimtyd.top^
 ||kjjjusb.xyz^
 ||kjldsjfoe.click^
 ||sinspl.kjsd.net^
@@ -80843,6 +80855,7 @@
 ||kmabiz.org^
 ||staging.kmarketingdesign.com^
 ||br.links.kmartphotos.com.au^
+||kmbjerbaafdn.global^
 ||kmcosm.com^
 ||kmct.edu.in^
 ||kmctayurvedacollege.org^
@@ -81676,6 +81689,7 @@
 ||rhinoceros.krieger.io^
 ||krikyabdt.net^
 ||www.kriminala.net^
+||krinkred.com^
 ||krio.site^
 ||kripsysponge.lat^
 ||kriptoparahaber.care^
@@ -84265,6 +84279,7 @@
 ||lightedcastle.com^
 ||lightfoot.top^
 ||lighthousehickman.com^
+||lightimpregnable.com^
 ||fkdaik.lightinthebox.com^
 ||lightloveandlittles.com^
 ||lightn5.com^
@@ -84754,6 +84769,7 @@
 ||mr-in.littlepassports.com^
 ||littleswanaircon.com.sg^
 ||lituatetoea.digital^
+||litukydteamw.com^
 ||liujopolska.com^
 ||share.liv.rent^
 ||livabledefamer.shop^
@@ -86453,6 +86469,7 @@
 ||ens.luzernerzeitung.ch^
 ||luzernetimes.com^
 ||lv5hj.top^
+||lv9qr0g0.xyz^
 ||lvaskoyt.xyz^
 ||lvcst365.com^
 ||lvdar.com^
@@ -87241,6 +87258,7 @@
 ||majoagna.com^
 ||major-video.click^
 ||majorbet.net^
+||majorcharacter.com^
 ||majordistinguishedguide.com^
 ||ra.majorgeeks.com^
 ||majorhalfmoon.com^
@@ -90543,6 +90561,7 @@
 ||mimicbeeralb.com^
 ||mimicdivineconstable.com^
 ||mimicromax.com^
+||mimicvrows.com^
 ||mimilcnf.pro^
 ||miminarezno.xyz^
 ||ad2.mimint.co.kr^
@@ -101004,6 +101023,7 @@
 ||ntdtv.ru^
 ||counter.ntdvn.com^
 ||counter.ntdvn.net^
+||ntedbycathyhou.com^
 ||ntent.com^
 ||ntfck.com^
 ||ntfmeta.com^
@@ -104167,6 +104187,7 @@
 ||api.ootoo.co.kr^
 ||oovoonganeegry.xyz^
 ||oowhoaphick.com^
+||oowkzpjo-o.click^
 ||ooxobsaupta.com^
 ||logger-gtm.ooyala.com^
 ||data-51ce0248a2.op-marburg.de^
@@ -111955,6 +111976,7 @@
 ||prayexplodesyndrome.com^
 ||prbn.ru^
 ||prchecker.info^
+||prckxbflfaryfau.com^
 ||vd.emp.prd.s3.amazonaws.com^
 ||prdclasses.com^
 ||prdohgp.cn^
@@ -113767,6 +113789,7 @@
 ||psoansumt.net^
 ||psoasusteech.net^
 ||psockapa.net^
+||psoftautha.com^
 ||psohemsinso.xyz^
 ||psomsoorsa.com^
 ||psomtenga.net^
@@ -117026,6 +117049,7 @@
 ||virted-pl-fi551.qikeut.top^
 ||qilicaakoa.org^
 ||miniapp.qiluyidian.mobi^
+||qimnubohcapb.com^
 ||qingdaojiashibao.com^
 ||up.qingdaonews.com^
 ||a.qinghua5.com^
@@ -123529,6 +123553,7 @@
 ||samaprawda.click^
 ||samara-airport.com^
 ||wolf.samarasousa.com^
+||samarradeafer.top^
 ||ads.samartdigitalmedia.com^
 ||samba.tv^
 ||sambaads.com^
@@ -134495,6 +134520,7 @@
 ||stoopeddemandsquint.com^
 ||stoopedsignbookkeeper.com^
 ||stoopfalse.com^
+||stoopsaipee.com^
 ||stoopsellers.com^
 ||stoorgel.com^
 ||stoorgouxy.com^
@@ -143839,6 +143865,7 @@
 ||ssas.tkruiske.be^
 ||google.tkshopeeq.com^
 ||creative.live.tktube.com^
+||tktujhhc.com^
 ||tkymqpffduhl.com^
 ||tl-baumpflege.de^
 ||tl11z.net^
@@ -149920,6 +149947,7 @@
 ||djklt.unhideme.live^
 ||xiqlt.unhideme.live^
 ||unhoaryawonder.com^
+||unhoodikhwan.shop^
 ||unhulf.fun^
 ||unhulf.xyz^
 ||webstat.rrz.uni-koeln.de^
@@ -154109,6 +154137,7 @@
 ||sc.vh1.com^
 ||ssc.vh1.com^
 ||vh79.com^
+||vh8.icu^
 ||vhanu.com^
 ||profil.vhb.de^
 ||wt.vhb.de^
@@ -155134,6 +155163,7 @@
 ||ufeonk.viravira.co^
 ||app.virdee.co^
 ||virenderarya.com^
+||vireshrill.top^
 ||virgalocust.shop^
 ||virgenomisms.shop^
 ||adimg.virgilio.it^
@@ -164652,6 +164682,7 @@
 ||tnc3-bjlgy.zijieapi.com^
 ||vcs.zijieapi.com^
 ||view.zijieapi.com^
+||zikeke7.com^
 ||download.zikirapp.com^
 ||zikroarg.com^
 ||link.zikto.com^
