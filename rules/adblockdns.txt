@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241208161206
-! Last modified: 2024/12/08 16:12:06
-! Blocked domains: 169164
+! Version: 20241209001004
+! Last modified: 2024/12/09 00:10:04
+! Blocked domains: 169168
 ! unBlocked domains: 49
 !
 ||640186f930.04de88565b.com^
@@ -3160,6 +3160,7 @@
 ||contents.7gogo.jp^
 ||pixel.7grid.com^
 ||7hacks.com^
+||7hb.icu^
 ||7hink883v.xyz^
 ||7hor9gul4s.com^
 ||7host.com^
@@ -46304,6 +46305,7 @@
 ||ejdkqclkzq.com^
 ||ejevika.com^
 ||ejfeng.com^
+||ejimtyw.top^
 ||ejipaifaurga.com^
 ||pydnsv.ejobs.ro^
 ||ejolul.xyz^
@@ -60788,6 +60790,7 @@
 ||guppymedia.com^
 ||guptaseo.com^
 ||guptashop.com^
+||guqoinly.com^
 ||gurbetseli.com^
 ||nlawnt.gurhan.com^
 ||gurnote.xyz^
@@ -159436,6 +159439,7 @@
 ||wcalabamanews.com^
 ||wcaos.com^
 ||wcbxugtfk.com^
+||wcdfxj.xyz^
 ||wcgeorgianews.com^
 ||chatlink.wchatlink.com^
 ||axp.wcia.com^
