@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: yPH2+8gqUtEzHpVC5Hj6YQ
-! Version: 202504300031
+! Checksum: D36/Ywp1awdaZI3mMltN8Q
+! Version: 202504300801
 ! Title: EasyPrivacy
-! Last modified: 30 Apr 2025 00:31 UTC
+! Last modified: 30 Apr 2025 08:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1179,6 +1179,7 @@
 /if/services/tdg?hs=
 /IIQUniversalID.min.js
 /image.ng/*
+/images/tingyun.js$script
 /iMAWebCookie.js
 /img?eid=
 /imgcount.cgi?
@@ -2396,6 +2397,7 @@
 /tracking/referrer?
 /tracking/thirdpartytag.js
 /tracking/trackpageview
+/tracking/uct?v=
 /tracking/universalJSRequest.php
 /tracking/user_sync_widget?
 /tracking/views/*
@@ -9466,6 +9468,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||surveymonkey.com/resp/api/metrics
 ||surveywall-api.survata.com^$third-party
 ||svc.dynamics.com/f/m/$third-party
+||svc.dynamics.com/t/v/$third-party
 ||svc.dynamics.com/t/w$third-party
 ||svibeacon.onezapp.com^
 ||swarm.video/j79z9kzty.js
