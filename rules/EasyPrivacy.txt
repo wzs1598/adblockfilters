@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: mJ0epVaN+ZIXYrlkt3FzYg
-! Version: 202602230821
+! Checksum: drPBXmk7NmBdjqkHZldNfg
+! Version: 202602231631
 ! Title: EasyPrivacy
-! Last modified: 23 Feb 2026 08:21 UTC
+! Last modified: 23 Feb 2026 16:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1075,6 +1075,7 @@
 /gc?refurl=
 /gcount.pl?
 /gd_tracker_events.js
+/gdm-user-insights.js
 /gemius.3.15.js
 /gemius.js
 /gen204/*
