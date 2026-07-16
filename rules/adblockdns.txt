@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20260716010229
-! Last modified: 2026/07/16 01:02:29
-! Blocked domains: 261527
+! Version: 20260716092247
+! Last modified: 2026/07/16 09:22:47
+! Blocked domains: 261558
 ! unBlocked domains: 46
 !
 ||05block.com^
@@ -1640,6 +1640,7 @@
 ||2bradesconetmepresas.com^
 ||2brothersautocare.com^
 ||2bwiihrajn.com^
+||2c0fe270d2.com^
 ||redirectdemoqpay.2c2p.com^
 ||2c4rrl8pe.de^
 ||1cbd637d10.2c8eb505eb.com^
@@ -2622,6 +2623,7 @@
 ||42jdbcb.de^
 ||42trck.com^
 ||42vaywaovr.com^
+||430a045945.com^
 ||431kls9qsf.com^
 ||4332.ws^
 ||kleinanzeigen.436kb.com^
@@ -2716,6 +2718,7 @@
 ||4asianporn.com^
 ||4autoclave.com^
 ||6c71340b42.4b0541a1c9.com^
+||4b15a05942.com^
 ||aaf6a9ea84.4b1eec4734.com^
 ||74365b37dc.4b9dce4c86.com^
 ||4balances.com^
@@ -5835,6 +5838,7 @@
 ||ablida-rotation.com^
 ||go.ablinc.com^
 ||ccm.abload.de^
+||abloomthurl.cyou^
 ||qvmucs.abluestore.com^
 ||realtime.ably.io^
 ||rest.ably.io^
@@ -11425,6 +11429,7 @@
 ||aksb-a.akamaihd.net^
 ||aksdn.com^
 ||stats.aksel.nu^
+||akseskaiko.cam^
 ||aksfwtoeorsre.site^
 ||akshayelectronics.net^
 ||aksia.co^
@@ -14133,6 +14138,7 @@
 ||ambalajeeco.ro^
 ||track.ambarella.com^
 ||cufjou.ambarexpress.com^
+||ambarspotter.qpon^
 ||ambaryceded.qpon^
 ||ambashitler.qpon^
 ||ambebwrdrift.shop^
@@ -20145,6 +20151,7 @@
 ||askalinu.net^
 ||ss.askallai.co^
 ||load.pro.askanadjuster.com^
+||askarfins.shop^
 ||go.askattest.com^
 ||askbasics.com^
 ||askbillmarks.com^
@@ -27431,6 +27438,7 @@
 ||data-f62d7c5cdb.bergstraesser-anzeiger.de^
 ||bergstromhub.com^
 ||bergstromline.com^
+||bergurukecina.fun^
 ||data-6add5bd962.bergwelten.com^
 ||data-7f59e1721b.bergwetter.de^
 ||vsgwsk.bergzeit.at^
@@ -43016,6 +43024,7 @@
 ||st.cdnco.us^
 ||cdndex.io^
 ||cdneurops.buzz^
+||cdnfgo.xyz^
 ||cdnflex.me^
 ||cdnflow.co^
 ||yuwufipo.cdnfree.org^
@@ -51766,6 +51775,7 @@
 ||mtrs.cooecfluor.com^
 ||cooeik.uk^
 ||cooeyeddarbs.com^
+||cooeysfennecs.shop^
 ||img01.coofinder.com^
 ||beacon.coofis.com^
 ||pmqko.coogi.com^
@@ -53201,6 +53211,7 @@
 ||cpg-cdn.com^
 ||test-links.cpgdata.com^
 ||cpgve9dnj.com^
+||cpgwhg54eb3t8189on.rest^
 ||cphevsznlbdpw.online^
 ||load.sgtm.cphgrooming.com^
 ||load.ssgtm.cphgrooming.com^
@@ -66334,6 +66345,7 @@
 ||grapo.doomlings.com^
 ||doomna.com^
 ||doood.co^
+||dooods.pro^
 ||dooosy.shop^
 ||link.doopage.com^
 ||gtm.dooprime.com^
@@ -73167,6 +73179,7 @@
 ||lupa.eloe-health.com.br^
 ||aggalj.eloem.kr^
 ||eloenseam.com^
+||elogecoptersabacot.cfd^
 ||net.elogia.net^
 ||elogiado.info^
 ||analytics.elogic.cloud^
@@ -80829,6 +80842,7 @@
 ||measure.fawssit.com^
 ||fawypea.pro^
 ||faxer.wpenginepowered.com^
+||faxingdandler.cfd^
 ||faxotapudoto.com^
 ||www3.faxsuite.de^
 ||www4.faxsuite.de^
@@ -95900,6 +95914,7 @@
 ||gohworthy.digital^
 ||smetrics.goibibo.com^
 ||sst.goiceland.com^
+||goid.space^
 ||goidmm.com^
 ||metrics.goig.com.br^
 ||goilyklykgejy.website^
@@ -97062,6 +97077,7 @@
 ||xmmbqa.goradin.com.br^
 ||content.gorapidcdn.com^
 ||goraps.com^
+||goratu.site^
 ||gorckvuyefwjt.site^
 ||stape.gordaodotrade.com.br^
 ||load.stp.gordijnen.nl^
@@ -104385,6 +104401,7 @@
 ||trk.himssconference.com^
 ||himssengage.com^
 ||sep02.hinagiku-life.jp^
+||hinchlastageencycl.qpon^
 ||hindchaouch.shop^
 ||hindi.me^
 ||hindisexxxxxxvideos.garden^
@@ -104990,6 +105007,7 @@
 ||hmark.click^
 ||email.everyonesocial.hmausa.com^
 ||hmbcfccmdpcmg.space^
+||hmbcvhxbz.com^
 ||adbsmetrics.ep.hmc.co.kr^
 ||hmclachlan.com^
 ||hmd3jvhrf.com^
@@ -122372,6 +122390,7 @@
 ||kegll5mwl2.com^
 ||aac.kegood.com^
 ||kegpjgnbjmnrh.space^
+||kegz.site^
 ||kehacuhujgatatu.world^
 ||kehillatcornerstone.us^
 ||kehilot.net^
@@ -142416,6 +142435,7 @@
 ||www.menttsalejp.com^
 ||a8clk.apply-shop.menu.inc^
 ||gtm.menue.io^
+||menujupenta.site^
 ||menuphimsexhay.com^
 ||pixel.menusifu.com^
 ||gtm.menvigo.de^
@@ -166219,6 +166239,7 @@
 ||oxu24.com^
 ||oxvmctwdsernj.site^
 ||oxwlhazto.com^
+||oxwnfooqpd.com^
 ||oxwpsqfoyaxkc.website^
 ||oxwsggbacrrdl.website^
 ||oxwytjjqlkoqm.website^
@@ -168747,6 +168768,7 @@
 ||pavmoro.shop^
 ||pavnori.shop^
 ||pavoboxapp.com^
+||pavoistravoy.shop^
 ||pavoshare.com^
 ||pavrizo.shop^
 ||pavutetech.shop^
@@ -169909,6 +169931,7 @@
 ||b666.penzainform.ru^
 ||97824ef6.peonie.pl^
 ||funnel.peonlyshop.com^
+||peonrheda.cyou^
 ||peonxfio.shop^
 ||get.peoople.app^
 ||get.peoople.co^
@@ -182932,6 +182955,7 @@
 ||qhkflvounmbrq.site^
 ||top.h.qhmsg.com^
 ||qhnbqrpobwplq.online^
+||qhofpjnlfl.com^
 ||qhokrckmxeczb.online^
 ||qhonzpl.cn^
 ||qhqfmdhuxeujk.space^
@@ -182946,6 +182970,7 @@
 ||qhzsj.com^
 ||qhzy888.com^
 ||qi-che.com^
+||qi6w147ym9yhgmbf4eup186hh.cfd^
 ||qiacc.com^
 ||qago.qiagen.com^
 ||track.go.qiagen.com^
@@ -185730,6 +185755,7 @@
 ||sst.raffleade.co.uk^
 ||file.rafflecreator.com^
 ||hkhfm.rafflehouse.com^
+||rafflemisaver.cyou^
 ||raffleprotectionbow.com^
 ||sstats.raffles.com^
 ||rafflisle.com^
@@ -204242,6 +204268,7 @@
 ||sslanalytics.sixt.ch^
 ||vyyikx.sixt.ch^
 ||analytics.sixt.cn^
+||sjwbwoahrivlb.website^
 ||skechersoutletfrance.fr^
 ||skecherssklep.pl^
 ||gtm.skedaddlewildlife.com^
@@ -213569,6 +213596,7 @@
 ||plfcp.strutmasters.com^
 ||tazpc.strutmasters.com^
 ||telemetry.stryker.com^
+||strypehyloist.cyou^
 ||sts.pl^
 ||mautic.sts.vn^
 ||t.stsaj.com^
@@ -231576,6 +231604,7 @@
 ||nussar.tuttocialde.it^
 ||lxoemc.tuttocitta.it^
 ||ydtzzw.tuttojuve.com^
+||tuttolocal.cfd^
 ||ydtzzw.tuttomercatoweb.com^
 ||ydtzzw.tuttonapoli.net^
 ||sst.tuttotshirt.com^
@@ -234050,6 +234079,7 @@
 ||unboundedpublishing.com^
 ||sgtm.unboxgreece.com^
 ||sst.unboxgreece.com^
+||unbrazegestae.shop^
 ||shop.unbreakableliberty.com^
 ||gtm.unbustore.com^
 ||unbuttonexcellentsubway.com^
@@ -235114,6 +235144,7 @@
 ||unwindjokerago.com^
 ||unwindrecordersquare.com^
 ||unwindrevision.com^
+||unwirecolly.qpon^
 ||unwisepoliticallybenignity.com^
 ||unwitting-milk.com^
 ||unwrapsstow.cyou^
