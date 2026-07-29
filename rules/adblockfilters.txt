@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20260729011621
-! Last modified: 2026/07/29 01:16:21
-! Blocked Filters: 117989
+! Version: 20260729092249
+! Last modified: 2026/07/29 09:22:49
+! Blocked Filters: 118002
 !
 ###AC_ad
 ###AD_160
@@ -28748,8 +28748,7 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 @@||click.virt.s*.exacttarget.com^|
 @@||clickattr.wayup.com^|
 @@||clickswin.tvchoicemagazine.co.uk/assets/advertisement/ads-*.js$domain=tvchoicemagazine.co.uk
-@@||client.aps.amazon-adsystem.com/publisher.js$script,domain=thestreet.com
-@@||client.aps.amazon-adsystem.com^$script,domain=newsweek.com
+@@||client.aps.amazon-adsystem.com/publisher.js$script,domain=foxnews.com|newsweek.com|thestreet.com
 @@||client.falixnodes.net^$generichide
 @@||clientlogin.cdn.skype.com^$document
 @@||clients.plex.tv/api/v2/ads/$~third-party
@@ -58789,6 +58788,7 @@ independent.co.uk###main > div[class]:has(> div > div > a[href^="https://tv.appl
 independent.co.uk###taboola-mid-article-thumbnails-ii
 independent.co.uk##.amp-live-list-item[id^="ad-"]
 independent.co.uk##.indy100-trending
+independent.co.uk##.lfyduH
 independent.co.uk##.partner-slots
 independent.co.uk##.section-content .premium-content
 independent.co.uk##.taboola-leaderboard
@@ -65859,6 +65859,7 @@ modrinth.com##.max-h-\[250px\]
 modrinth.com##div[type="banner"]
 modrinth.com#?##main > .normal-page__content > .content-wrapper:has(> div[data-ea-publisher])
 modrinth.com#?#.normal-page__content > div[class]:has(> div[class] > div[class] > div[class] > a[rel$="sponsored"])
+modrinth.com,nexusmods.com##.max-h-\[250px\]
 mods.to###detect-block
 mods.to##.main-download-content center:has(> small + div[id^="mods_to_"])
 mods.to#%#//scriptlet('abort-current-inline-script', 'document.createElement', 'pagead2.googlesyndication.com')
@@ -68284,6 +68285,7 @@ nexusmods.com##.border-b:has(> div[data-testid^="ad-container"])
 nexusmods.com##.items-center:has(>div[data-testid^="ad-container-"])
 nexusmods.com##.next-container > div[class^="space-"] > div[data-testid^="ad-container-"]
 nexusmods.com##[data-testid="ad-container-player"]
+nexusmods.com##[data-testid]
 nexusmods.com##[data-testid^="ad-billboard-"]
 nexusmods.com##[data-testid^="ad-leaderboard-"]
 nexusmods.com##[data-testid^="ad-logged-out-leaderboard-"]
@@ -81126,6 +81128,7 @@ thestreet.com##.csw-ae-wide
 thestreet.com##.m-balloon-header
 thestreet.com##.m-detail--feature-spacer
 thestreet.com##.m-video-unit
+thestreet.com##[class^="styles_container"]:has(.OUTBRAIN)
 thestreet.com##div[class^="styles_headerAdSlot__"]
 thestreet.com#%#//scriptlet('remove-attr', 'onload|onerror|data', 'head > script[onerror]')
 thestreet.com#%#//scriptlet('trusted-replace-argument', 'JSON.parse', '0', 'replace:/"AdShield":{"isEnabled":true}/"AdShield":{"isEnabled":false}/', 'AdShield')
@@ -82772,6 +82775,7 @@ tuberel.com##.vda-link
 tuberel.com#?#.tcats div.category-item:has(> a.vda-link)
 tuberel.com#?#.videos div.video-item:has(> a.vda-link)
 tuberel.com,hdzog.com#%#//scriptlet("set-constant", "adver.abEnable", "false")
+tuberipper.click##a[href="/r/dl"]
 tubesex.me###banneradv
 tubesex.me,xxxadd.com##.adban1
 tubesex.me/eureka
@@ -90261,6 +90265,7 @@ zzzyk.com###Tinfo
 ||a.bestcontenttool.top^$third-party
 ||a.binpartner.com^$third-party
 ||a.breaktime.com.tw^$third-party
+||a.c-dn.net/b/*/tracking-sdk-javascript.min.js
 ||a.cdn.searchiq.co/app/search/content/presearch/js/presearch.js
 ||a.cnki.net/a/
 ||a.dlads.cn^$third-party
@@ -92252,6 +92257,7 @@ zzzyk.com###Tinfo
 ||api.helloextend.com/mintsight
 ||api.hotscope.tv/snaps/top
 ||api.huo360.com/www/back/$image
+||api.ig.com/statistics/
 ||api.intelligems.io/v3/track
 ||api.invideo.io/v3/send_analytics_event
 ||api.ipgeolocation.io/getip
@@ -96011,6 +96017,7 @@ zzzyk.com###Tinfo
 ||coinnebula.com^$third-party
 ||coinpirate.cf^$third-party
 ||coinpot.co^$third-party
+||coinprediction.ai^$third-party
 ||cointelegraph.com/pixel?
 ||cointraffic.io^$third-party
 ||coinvote.cc/user_data/premium_banners/
@@ -96025,6 +96032,7 @@ zzzyk.com###Tinfo
 ||collect-elb-*.amazonaws.com^
 ||collect-v*.51.la^
 ||collecting.click^$third-party
+||collection.e-satisfaction.com^$third-party
 ||collector*.ex.co^
 ||collector-*.luigisbox.com^
 ||collector-*.perimeterx.net^
@@ -101158,6 +101166,7 @@ zzzyk.com###Tinfo
 ||hiiona.com^$document
 ||hiiona.com^$popup
 ||hilltopads.com^$popup
+||hilltopads.net^$document
 ||hilltopads.net^$popup
 ||hilove.life^$popup
 ||hilton.com/zJbufaUX/
@@ -105691,6 +105700,7 @@ zzzyk.com###Tinfo
 ||mirfakpersei.top^$document
 ||mirfakpersei.top^$popup
 ||mirtesen.ru/js/ms.js
+||mis.ig.com/tracking/
 ||misc-api.feathermc.com/*/ads/ad_units?
 ||miserly-phone.com^$popup
 ||misrepush.com^$third-party
@@ -106640,6 +106650,7 @@ zzzyk.com###Tinfo
 ||neudesicmediagroup.com^$third-party
 ||neulion.vo.llnwd.net^*/track.js
 ||neuralstemcell.com.cn/img/js.js
+||neuronal.infunnel.inconcert.cloud/public/tracking/frame.html
 ||never2never.com^$popup
 ||new-game-apk.com/wp-content/uploads/*/ads-*.jpg
 ||new-icon.ol-img.com/jslib/ad
@@ -107180,6 +107191,7 @@ zzzyk.com###Tinfo
 ||offermatica.com^$third-party
 ||offernow24.com^$popup
 ||offerreality.com^$third-party
+||offers.cam4tracking.com^$popup
 ||offers4all.net^$subdocument,third-party
 ||offerserve.com^$third-party
 ||offershub.net^$popup
@@ -114293,6 +114305,7 @@ zzzyk.com###Tinfo
 ||track.bcvc.mobi/earn.php^$popup
 ||track.bwclk.com^$document
 ||track.byzon.swelen.net^$third-party
+||track.cam4tracking.com^$popup
 ||track.datescan.info
 ||track.effiliation.com^$image,script
 ||track.kinetiksoft.com^$popup
