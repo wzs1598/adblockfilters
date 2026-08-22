@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20260822083223
-! Last modified: 2026/08/22 08:32:23
-! Blocked Filters: 118600
+! Version: 20260822161532
+! Last modified: 2026/08/22 16:15:32
+! Blocked Filters: 118584
 !
 ###AC_ad
 ###AD_160
@@ -14811,7 +14811,6 @@
 ##a[href="/goto.php?url=hth"]
 ##a[href="/ht.html"]
 ##a[href="/iwagbwfiwehaeyh"]
-##a[href="http://yun886.com"]
 ##a[href="https://t.me/bokaiyunwujiankaiyun"]
 ##a[href="javascript:GoGd();"]
 ##a[href="javascript:GoTp();"]
@@ -17309,7 +17308,6 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 .shop:*/ack?s=
 .shop:*/bid?url=
 .simplicitycrm.com/rd/
-.sinaimg.cn/large/008qC0LFgy1hyp0pc9jz3g30jg01otpp.
 .site:20443/*.js^$script,third-party
 .skimlinks.js
 .smartrmail.co/o/$image
@@ -24753,7 +24751,6 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 4shared.com##.sideRekl
 4shared.com##div[class^="rekl"]
 4shared.com#%#//scriptlet('prevent-setInterval', '.append', '1000')
-4spaces.org,fuliba.net,fuliba2023.net,fuliba2025.net,uliba.net,ypojie.com##.widget_ui_orbui
 4spaces.org,fuliba.net,fuliba2023.net,fuliba2025.net,ypojie.com##.widget_ui_orbui
 4sysops.com##.article-content > div[id^="div-test-"][style="margin-bottom:21px; -webkit-hyphens: none; -ms-hyphens: none; hyphens: none; "]
 4sysops.com##.article-content > div[style="text-align:center;"]
@@ -49887,11 +49884,6 @@ eevblog.com###text-49
 eevblog.com##[href^="http://s.click.aliexpress.com/"]
 eeyy.cc###div_dn
 eeyy.cc##.ads650
-eeyy.com###beitou_box
-eeyy.com###float_ad0
-eeyy.com##.gg_bg
-eeyy.com##.gg_top
-eeyy.com##.top-bg
 efe.com##.inside-right-sidebar > aside.widget:has(> div > div[id^="div-gpt-ad"])
 efestivals.co.uk###adsideMPU
 efestivals.co.uk###largeTopAd
@@ -53543,7 +53535,6 @@ fuelfinder.dk#$#.site-wrapper { display: block !important; opacity: 1 !important
 fujieace.com##.single-goods
 fuliba.net##.article-topbanner
 fuliba.net,fuliba2023.net###focusslide
-fuliba.net,fuliba2023.net,uliba.net###focusslide
 fuliba2021.net,ypojie.com##.orbui-post-footer
 fuliba2022.net###focusslide
 fuliba2022.net##li[style="margin-top:5px; "] > a[target="_blank"][rel="noopener"]:not([href$=".html"]) > img
@@ -92438,7 +92429,6 @@ zzzyk.com###Tinfo
 ||amazonaws.com/new.cetrk.com/
 ||amazonaws.com/newzimlive/*/Coronavirus
 ||amazonaws.com/prod/Ad_Cinando/$domain=cinando.com
-||amazonaws.com/prod/entities
 ||amazonaws.com/prod/main?ref=$image,third-party
 ||amazonaws.com/prod/nobot
 ||amazonaws.com/prod/report-only
@@ -98698,12 +98688,6 @@ zzzyk.com###Tinfo
 ||eetspaae.net^$popup
 ||eevblog.com/images/comm/$image
 ||eeyy.cc/style/yxj.js
-||eeyy.com/otherhtml/js/ad650.js
-||eeyy.com/otherhtml/poster_js/
-||eeyy.com/templates/js/other/yxj
-||eeyy.com/templates/js/popback.js
-||eeyy.com/uploadfile/img/beitou
-||eeyy.com^$third-party
 ||effectivecpmcontent.com^$popup
 ||effectiveratecpm.com^$popup
 ||efficientorbit.co^$document
@@ -117630,6 +117614,7 @@ zzzyk.com###Tinfo
 ||xn--72czbawn3i1b1dydua6cl3b.com/*/*.webp
 ||xn--e1aaipcdgnfsn.su^*/counter.php
 ||xn--p3tv7h.com/imgs/Uxuan2.jpg
+||xn--pckua2a7gp15o89zb.com/api/am/v1/t
 ||xnewsletter.de/count/counter.php?
 ||xng02.com/api.php?mod=ad&
 ||xnimg.cn^*/liveinc/rightlive.js
@@ -118469,7 +118454,6 @@ zzzyk.com###Tinfo
 ||zononi.com^$popup
 ||zontera.com^$third-party
 ||zonupiza.com^$popup
-||zooj.cn^$third-party
 ||zoom.us/*/app-telemetry.
 ||zoom.us/*/fingerprintjs-
 ||zoom.us/user/anonymous/telemetry
