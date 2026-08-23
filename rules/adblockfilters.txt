@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20260823161603
-! Last modified: 2026/08/23 16:16:03
-! Blocked Filters: 118594
+! Version: 20260824001109
+! Last modified: 2026/08/24 00:11:09
+! Blocked Filters: 118597
 !
 ###AC_ad
 ###AD_160
@@ -12420,6 +12420,7 @@
 ##.pg-ad-block
 ##.pg-adnotice
 ##.pg-adtarget
+##.pg-body > div[class^="gg_"]
 ##.pgevoke-fp-bodyad2
 ##.pgevoke-story-rightrail-ad1
 ##.pgevoke-story-topads
@@ -39810,7 +39811,6 @@ animecorner.me,zarabiajprzez24.pl,watchhentai.xxx,app-how-to-use-it.com,linuxcap
 animedb.in##.full-page
 animedb.in#%#//scriptlet('prevent-setInterval', 'window.getComputedStyle')
 animefever.cc#%#//scriptlet('prevent-xhr', 'pagead2.googlesyndication.com')
-animefire.io,kavero.biz,flixcdn.cyou,kicknosub.com,555fap.com,vixcloud.co,vidmatrixa.com,vidchampions.com,vidavaca.cc,8kporner.com,filester.me,goonbox.cr,luottruyen12.com,vidavaca.net,hentainexus.com,xfans.st,mangakakalot.gg,26img.com,javbee.co,vindaz.shop,xca.cymru,shavetape.cash,vidsonic.net,bigshare.io,herexxx.com,avdbapi.com,rule34vault.com,speedporn.net,taboodude.com,pornxp.ph,cdn.loadvid.com,vidara.so,vidara.to,pornwatch.ws,rpmplay.online,embedseek.online,pandamovies.org,hepidrive.online,hentaicop.com,livecamrips.*,asianporn.li,vik1ngfile.site,mangago.me,klmanga.ec,chochox.com,comick.art,qmh.sex,cap3.sex,hindilinks4u.*,doujindesu.tv,easyvidplayer.com,camwhores.*,player4me.*,faselhds.biz,severeporn.com,rule34video.com,niyaniya.moe,pornxp.net,upns.online,seekplayer.vip#%#//scriptlet('abort-current-inline-script', 'WebAssembly', 'atob')
 animeflv.net##div[style*="visibility:hidden;"] > div[style*="z-index"] > a[href][rel*="nofollow"][rel*="noindex"]
 animefreak.*#%#//scriptlet('prevent-xhr', 'googlesyndication')
 animefrenzy.net,royalcams.com,adultcams.me,adultchat2100.com,alphafreecams.com,bimbolive.com,bongacam.net,bongacam.org,bongacams-chat.ru,bongacams.com,bongacams.eu,bongacams2.com,cammbi.com,prostocams.com,smutcam.com##.chatbox
@@ -54693,6 +54693,7 @@ get-to.link###hover-message
 get-to.link#%#//scriptlet("prevent-window-open", "exdynsrv.com")
 get-to.link#%#//scriptlet('prevent-element-src-loading', 'script', 'prebid.revbid.net')
 get.pixelexperience.org##.mantine-arewlw
+getaiperks.com##a[href*="&utm_"]
 getautoclicker.com#%#//scriptlet('set-constant', 'adsLoaded', 'true')
 getavataaars.com#?#.container > div > h4:contains(/^Ads$/)
 getbukkit.org##.col-md-offset-2 > div.limit
@@ -57488,6 +57489,7 @@ hmoe.one#?#.widget_text > .inn-sidebar__widget:has(> .poi-panel__header > .poi-p
 hmoe.one,hmoe.moe##a[href^="https://item.taobao.com"]
 hna.de,onemileatatime.com,wordshake.com,cybertruckownersclub.com,adrenaline.com.br,gerbeaud.com$$script:contains(:window,)
 hnntube.com##.jumbotron
+hnonline.sk##.container div[class]:has(> div.ad--align)
 hnonline.sk##.item__ad-center
 hnonline.sk##div[class^="position_break_"]
 hnonline.sk##div[class^="position_item_right_"]:has(> div.ad--align:only-child)
@@ -57669,6 +57671,8 @@ hornyhill.com##.footer div.card-body > a.read-more ~ p.card-text + p[style="font
 hornyhill.com##.footer div.card-body > a.read-more ~ p.card-text + p[style="font-weight: bold;"] ~ a[href][target="_blank"]
 hornyhill.com##a[href^="https://theporndude."]
 hornyhill.com#%#//scriptlet('prevent-addEventListener', 'DOMContentLoaded', 'dialog')
+hornyhill.st###adblock-dialog
+hornyhill.st,animefire.io,kavero.biz,flixcdn.cyou,kicknosub.com,555fap.com,vixcloud.co,vidmatrixa.com,vidchampions.com,vidavaca.cc,8kporner.com,filester.me,goonbox.cr,luottruyen12.com,vidavaca.net,hentainexus.com,xfans.st,mangakakalot.gg,26img.com,javbee.co,vindaz.shop,xca.cymru,shavetape.cash,vidsonic.net,bigshare.io,herexxx.com,avdbapi.com,rule34vault.com,speedporn.net,taboodude.com,pornxp.ph,cdn.loadvid.com,vidara.so,vidara.to,pornwatch.ws,rpmplay.online,embedseek.online,pandamovies.org,hepidrive.online,hentaicop.com,livecamrips.*,asianporn.li,vik1ngfile.site,mangago.me,klmanga.ec,chochox.com,comick.art,qmh.sex,cap3.sex,hindilinks4u.*,doujindesu.tv,easyvidplayer.com,camwhores.*,player4me.*,faselhds.biz,severeporn.com,rule34video.com,niyaniya.moe,pornxp.net,upns.online,seekplayer.vip#%#//scriptlet('abort-current-inline-script', 'WebAssembly', 'atob')
 hornyleak.tv#%#//scriptlet('prevent-addEventListener', 'click', 'AD_URL')
 hornyleak.tv,hdplayer.gives##div[button="custom-ad-btn"]
 hornyleak.tv,hdplayer.gives#%#//scriptlet('prevent-addEventListener', '', 'showPopup')
@@ -93682,7 +93686,6 @@ zzzyk.com###Tinfo
 ||baidu.com/event/img/zwdzjs.jpg
 ||baidu.com/fanyiapp/image/wise_banner_
 ||baidu.com/feproxy/ad/list?
-||baidu.com/forum/pic/item/0bd162d9f2d3572cef1c4acdcc13632762d0c322.
 ||baidu.com/game/asset/common/performance.
 ||baidu.com/gamebox?
 ||baidu.com/h.js?
@@ -106200,6 +106203,7 @@ zzzyk.com###Tinfo
 ||microcounter.de^$third-party
 ||micropage.cn/images/ad_
 ||microsoft.com/echo/etc.clientlibs/microsoft/clientlibs/exp-analytics/
+||micstatic.com/common/js/business/global/sensors_track.js$script,domain=made-in-china.com
 ||mictests.com/myshowroom/view.php$subdocument
 ||midas-i.com^$third-party
 ||midas-network.com^$third-party
@@ -114435,7 +114439,6 @@ zzzyk.com###Tinfo
 ||thisvid.com/js/exblk/
 ||thisvid.com/zvrk/
 ||thizissam.in/beardeddragon/iguana.js
-||thjfcs.cn/hc237/uploads/default/other/2025-12-10/81a0f876800ea81616864d841f102ef4.
 ||thofteert.com^$popup
 ||thomasalthoughhear.com^$popup
 ||thothd.*^$replace=/(protect_block:[\s\S]*?')[\s\S]*?'/\$1'/,document
@@ -118173,7 +118176,7 @@ zzzyk.com###Tinfo
 ||yun.baidu.com/act/api/activityentry?
 ||yundaquan.com/data/attachment/portal/
 ||yunsennet.com^$popup
-||yuntu68.com/imgcimo/
+||yuntu68.com/img
 ||yuntue.com/zb_users/plugin/MoreLinks*.php
 ||yunupload.net/jsa/
 ||yunzhan365.com/resourceFiles/js/weixin-share.js
